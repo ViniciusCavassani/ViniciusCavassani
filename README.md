@@ -32,6 +32,7 @@ Tenho disposição para aprender, colaborar em equipe e transformar conhecimento
 ## 📫 Contato
 
 - **GitHub:** [github.com/ViniciusCavassani](https://github.com/ViniciusCavassani)
+--**E-mail:** viniciuscavassani7@hotmail.com
 
 ---
 
