@@ -4,13 +4,13 @@
 
 Tenho desenvolvido projetos práticos envolvendo microcontroladores, sensores, circuitos eletrônicos e programação. Gosto de aprender colocando a mão na massa, testar soluções e documentar o que construo.
 
-## 🚀 Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 - **Linguagens:** C e C++
 - **Microcontroladores:** ESP32 e Arduino
 - **Eletrônica:** circuitos, sensores, atuadores e prototipagem
 - **Comunicação:** I2C e SPI
-- **Ferramentas:** Git, GitHub e Wokwi
+- **Ferramentas:** Git, GitHub, Wokwi, AutoCAD, VSCode, Proteus, Arduino IDE, PyCharm, Cisco Packet Tracer e Microsoft Excel. 
 
 ## 🛠️ Projetos
 
@@ -25,8 +25,7 @@ Projeto de automação com Arduino, desenvolvido para praticar integração entr
 
 ## 🎯 Objetivos
 
-Busco uma oportunidade para iniciar minha carreira na área de tecnologia, especialmente em **Suporte Técnico, Infraestrutura de TI, Desenvolvimento ou Sistemas Embarcados**.
-
+Busco uma oportunidade para iniciar minha carreira na área de tecnologia, especialmente em **IA, Suporte Técnico, Infraestrutura de TI, Desenvolvimento ou Sistemas Embarcados**.
 Tenho disposição para aprender, colaborar em equipe e transformar conhecimentos técnicos em soluções práticas.
 
 ## 📫 Contato
@@ -36,4 +35,4 @@ Tenho disposição para aprender, colaborar em equipe e transformar conhecimento
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+ Obrigado por visitar meu perfil!
