@@ -1,38 +1,34 @@
 # Olá! Eu sou o Vinicius Cavassani 👋
 
-🎓 Estudante de Eletrônica pela ETEC, interessado em tecnologia, desenvolvimento de software e sistemas embarcados.
+🎓 Estudante do Técnico em Eletrônica na ETEC, com interesse em sistemas embarcados, eletrônica e tecnologia.
 
-Tenho desenvolvido projetos práticos envolvendo microcontroladores, sensores, circuitos eletrônicos e programação. Gosto de aprender colocando a mão na massa, testar soluções e documentar o que construo.
+Desenvolvo projetos práticos com ESP32, sensores, módulos e periféricos. Gosto de aprender testando, investigar problemas e registrar o funcionamento das soluções.
 
-## Tecnologias e conhecimentos
+## Conhecimentos
 
-- **Linguagens:** C e C++
+- **Programação:** C/C++ para Arduino e ESP32; Python básico
 - **Microcontroladores:** ESP32 e Arduino
-- **Eletrônica:** circuitos, sensores, atuadores e prototipagem
+- **Eletrônica:** circuitos, prototipagem, sensores e atuadores
 - **Comunicação:** I2C e SPI
-- **Ferramentas:** Git, GitHub, Wokwi, AutoCAD, VSCode, Proteus, Arduino IDE, PyCharm, Cisco Packet Tracer e Microsoft Excel. 
+- **Ferramentas:** Arduino IDE, Wokwi, Proteus, AutoCAD, VS Code, PyCharm, Cisco Packet Tracer, Excel, Git e GitHub
 
-## 🛠️ Projetos
+## Projetos
 
-### [Sistema de monitoramento de gases com ESP32](https://github.com/ViniciusCavassani/Projects)
-Sistema que utiliza ESP32 e sensor MQ-2 para monitorar a presença de gases, apresentar informações em um display LCD e emitir alertas sonoros.
+### [Dispenser automatizado de medicamentos com ESP32](https://github.com/ViniciusCavassani/Dispenser-arduino)
+Protótipo com RTC DS1307, display LCD I2C, teclado matricial e alerta por LED ou servo. A versão expandida sincroniza o relógio pela internet usando Wi-Fi e NTP.
+
+### [Monitor de gás com ESP32 e MQ-2](https://github.com/ViniciusCavassani/Projects)
+Lê o sinal analógico do sensor MQ-2, mostra uma faixa de leitura no LCD e aciona um buzzer acima do limite configurado no código.
 
 ### [Controle de LED com ESP32](https://github.com/ViniciusCavassani/esp32-led-control)
-Projeto prático de controle de saídas digitais utilizando o microcontrolador ESP32.
+Exemplo de controle de uma saída digital com dois botões: um liga o LED e o outro desliga.
 
-### [Dispenser com Arduino](https://github.com/ViniciusCavassani/Dispenser-arduino)
-Projeto de automação com Arduino, desenvolvido para praticar integração entre hardware e software.
+## Objetivo
 
-## 🎯 Objetivos
+Busco uma oportunidade para iniciar minha carreira em tecnologia, suporte técnico, eletrônica ou sistemas embarcados. Tenho interesse em aprender na prática, colaborar com a equipe e contribuir com projetos técnicos.
 
-Busco uma oportunidade para iniciar minha carreira na área de tecnologia, especialmente em **IA, Suporte Técnico, Infraestrutura de TI, Desenvolvimento ou Sistemas Embarcados**.
-Tenho disposição para aprender, colaborar em equipe e transformar conhecimentos técnicos em soluções práticas.
+## Contato
 
-## 📫 Contato
-
+- **E-mail:** [viniciuscavassani7@hotmail.com](mailto:viniciuscavassani7@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/vinicius-cavassani-4b12043a0](https://www.linkedin.com/in/vinicius-cavassani-4b12043a0/)
 - **GitHub:** [github.com/ViniciusCavassani](https://github.com/ViniciusCavassani)
---**E-mail:** viniciuscavassani7@hotmail.com
-
----
-
- Obrigado por visitar meu perfil!
