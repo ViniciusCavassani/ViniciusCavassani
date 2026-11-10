@@ -15,7 +15,7 @@ Desenvolvo projetos práticos com ESP32, sensores, módulos e periféricos. Gost
 ## Projetos
 
 ### [Dispenser automatizado de medicamentos com ESP32](https://github.com/ViniciusCavassani/Dispenser-arduino)
-Protótipo com RTC DS1307, display LCD I2C, teclado matricial e alerta por LED ou servo. A versão expandida sincroniza o relógio pela internet usando Wi-Fi e NTP.
+Projeto montado fisicamente e simulado no Wokwi. Integra ESP32, RTC DS1307, LCD I2C, teclado matricial e alerta por LED; a versão expandida usa Wi-Fi/NTP e servo. [Abrir simulação no Wokwi](https://wokwi.com/projects/463943057892354049).
 
 ### [Monitor de gás com ESP32 e MQ-2](https://github.com/ViniciusCavassani/Projects)
 Lê o sinal analógico do sensor MQ-2, mostra uma faixa de leitura no LCD e aciona um buzzer acima do limite configurado no código.
