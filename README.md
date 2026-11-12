@@ -1,16 +1,6 @@
-# Olá! Eu sou o Vinicius Cavassani 👋
+# Olá! Eu sou o Vinicius Cavassani
 
-🎓 Estudante do Técnico em Eletrônica na ETEC, com interesse em sistemas embarcados, eletrônica e tecnologia.
-
-Desenvolvo projetos práticos com ESP32, sensores, módulos e periféricos. Gosto de aprender testando, investigar problemas e registrar o funcionamento das soluções.
-
-## Conhecimentos
-
-- **Programação:** C/C++ para Arduino e ESP32; Python básico
-- **Microcontroladores:** ESP32 e Arduino
-- **Eletrônica:** circuitos, prototipagem, sensores e atuadores
-- **Comunicação:** I2C e SPI
-- **Ferramentas:** Arduino IDE, Wokwi, Proteus, AutoCAD, VS Code, PyCharm, Cisco Packet Tracer, Excel, Git e GitHub
+Sou estudante do Técnico em Eletrônica na ETEC. Desenvolvo protótipos com ESP32 em C/C++, da montagem e integração de periféricos à depuração pelo Monitor Serial.
 
 ## Projetos
 
@@ -22,6 +12,12 @@ Lê o sinal analógico do sensor MQ-2, mostra uma faixa de leitura no LCD e acio
 
 ### [Controle de LED com ESP32](https://github.com/ViniciusCavassani/esp32-led-control)
 Exemplo de controle de uma saída digital com dois botões: um liga o LED e o outro desliga.
+
+## Conhecimentos
+
+- C/C++ para Arduino e ESP32, Python básico
+- Prototipagem, sensores, atuadores e comunicação I²C
+- Arduino IDE, Wokwi e GitHub
 
 ## Objetivo
 
