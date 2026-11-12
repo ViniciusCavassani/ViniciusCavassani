@@ -13,6 +13,9 @@ Lê o sinal analógico do sensor MQ-2, mostra uma faixa de leitura no LCD e acio
 ### [Controle de LED com ESP32](https://github.com/ViniciusCavassani/esp32-led-control)
 Exemplo de controle de uma saída digital com dois botões: um liga o LED e o outro desliga.
 
+### [Estudos de Python](https://github.com/ViniciusCavassani/estudos-python)
+Exercícios de aula e desafios iniciais, com anotações curtas e versões melhoradas para praticar validação de dados.
+
 ## Conhecimentos
 
 - C/C++ para Arduino e ESP32, Python básico
