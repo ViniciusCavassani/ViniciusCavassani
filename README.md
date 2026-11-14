@@ -22,10 +22,6 @@ Exercícios de aula e desafios iniciais, com anotações curtas e versões melho
 - **Eletrônica e sistemas embarcados:** prototipagem, montagem de circuitos, integração de sensores e atuadores, comunicação I²C e depuração pelo Monitor Serial.
 - **Ferramentas:** Arduino IDE, Wokwi e GitHub.
 
-## Objetivo
-
-Busco uma oportunidade inicial em suporte técnico, eletrônica ou sistemas embarcados. Tenho interesse em atuar com montagem, testes e manutenção eletrônica ou com projetos que envolvam microcontroladores. Quero aplicar o que venho aprendendo e continuar me desenvolvendo na área.
-
 ## Contato
 
 - **E-mail:** [viniciuscavassani7@hotmail.com](mailto:viniciuscavassani7@hotmail.com)
