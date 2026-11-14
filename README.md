@@ -18,10 +18,13 @@ Exercícios de aula e desafios iniciais, com anotações curtas e versões melho
 
 ## Conhecimentos
 
-- **Programação:** C/C++ para Arduino e ESP32; Python básico.
-- **Eletrônica e sistemas embarcados:** prototipagem, montagem de circuitos, integração de sensores e atuadores, comunicação I²C e depuração pelo Monitor Serial.
-- **Ferramentas:** Arduino IDE, Wokwi e GitHub.
-
+- **Eletrônica:** eletrônica analógica e digital, leitura de diagramas e datasheets, montagem em protoboard, soldagem e testes com multímetro.
+- **Microcontroladores:** ESP32 e Arduino; integração de sensores e atuadores.
+- **Protocolos e módulos:** comunicação I²C e uso de módulos como LCD, RTC, keypad e servo motor.
+- **Programação:** C++ para Arduino e Python em nível básico.
+- **Ferramentas:** Arduino IDE, Wokwi, AutoCad e EasyEDA.
+- **Projetos:** desenvolvimento e testes de protótipos com ESP32, sensores, displays e automação.
+  
 ## Contato
 
 - **E-mail:** [viniciuscavassani7@hotmail.com](mailto:viniciuscavassani7@hotmail.com)
