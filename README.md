@@ -10,8 +10,8 @@ Projeto montado fisicamente e simulado no Wokwi. Integra ESP32, RTC DS1307, LCD 
 ### [Monitor de gás com ESP32 e MQ-2](https://github.com/ViniciusCavassani/Projects)
 Lê o sinal analógico do sensor MQ-2, mostra uma faixa de leitura no LCD e aciona um buzzer acima do limite configurado no código.
 
-### [Controle de LED com ESP32](https://github.com/ViniciusCavassani/esp32-led-control)
-Exemplo de controle de uma saída digital com dois botões: um liga o LED e o outro desliga.
+### [Carrinho de controle remoto com ESP32](https://github.com/ViniciusCavassani/carrinho-esp32-controle-remoto)
+Projeto físico escolar desenvolvido por mim. O repositório documenta o firmware de controle por Wi-Fi, usando uma página web local, e por Bluetooth Classic.
 
 ### [Estudos de Python](https://github.com/ViniciusCavassani/estudos-python)
 Exercícios de aula e desafios iniciais, com anotações curtas e versões melhoradas para praticar validação de dados.
