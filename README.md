@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vinicius Cavassani
 
-Sou estudante do Técnico em Eletrônica na ETEC. Desenvolvo protótipos com ESP32 em C/C++, da montagem e integração de periféricos à depuração pelo Monitor Serial.
+Sou estudante do curso técnico em Eletrônica na ETEC. Gosto de aprender na prática: monto protótipos com ESP32, integro sensores e atuadores e depuro o código e as ligações pelo Monitor Serial.
 
 ## Projetos
 
@@ -18,13 +18,13 @@ Exercícios de aula e desafios iniciais, com anotações curtas e versões melho
 
 ## Conhecimentos
 
-- C/C++ para Arduino e ESP32, Python básico
-- Prototipagem, sensores, atuadores e comunicação I²C
-- Arduino IDE, Wokwi e GitHub
+- **Programação:** C/C++ para Arduino e ESP32; Python básico.
+- **Eletrônica e sistemas embarcados:** prototipagem, montagem de circuitos, integração de sensores e atuadores, comunicação I²C e depuração pelo Monitor Serial.
+- **Ferramentas:** Arduino IDE, Wokwi e GitHub.
 
 ## Objetivo
 
-Busco uma oportunidade para iniciar minha carreira em tecnologia, suporte técnico, eletrônica ou sistemas embarcados. Tenho interesse em aprender na prática, colaborar com a equipe e contribuir com projetos técnicos.
+Busco uma oportunidade inicial em suporte técnico, eletrônica ou sistemas embarcados. Tenho interesse em atuar com montagem, testes e manutenção eletrônica ou com projetos que envolvam microcontroladores. Quero aplicar o que venho aprendendo e continuar me desenvolvendo na área.
 
 ## Contato
 
