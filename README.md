@@ -22,7 +22,7 @@ Exercícios de aula e desafios iniciais, com anotações curtas e versões melho
 - **Microcontroladores:** ESP32 e Arduino; integração de sensores e atuadores.
 - **Protocolos e módulos:** comunicação I²C e uso de módulos como LCD, RTC, keypad e servo motor.
 - **Programação:** C++ para Arduino e Python em nível básico.
-- **Ferramentas:** Arduino IDE, Wokwi, AutoCad e EasyEDA.
+- **Ferramentas:** Arduino IDE, Wokwi, AutoCad e EasyEDA, Cisco Packet Tracer.
 - **Projetos:** desenvolvimento e testes de protótipos com ESP32, sensores, displays e automação.
   
 ## Contato
