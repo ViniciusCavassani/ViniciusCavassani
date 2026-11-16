@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vinicius Cavassani
 
-Sou estudante do curso técnico em Eletrônica na ETEC. Gosto de aprender na prática: monto protótipos com ESP32, integro sensores e atuadores e depuro o código e as ligações pelo Monitor Serial.
+Sou estudante do curso técnico em Eletrônica na ETEC. Gosto de aprender na prática: monto protótipos com ESP32, integro sensores e atuadores.
 
 ## Projetos
 
