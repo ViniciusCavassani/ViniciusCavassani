@@ -26,11 +26,10 @@ Projeto antigo feito enquanto eu aprendia eletrônica. Desenhei o circuito no Pr
 - **Microcontroladores:** ESP32 e Arduino; integração de sensores e atuadores.
 - **Protocolos e módulos:** comunicação I²C e uso de módulos como LCD, RTC, keypad e servo motor.
 - **Programação:** C++ para Arduino e Python em nível básico.
-- **Ferramentas:** Arduino IDE, Wokwi, AutoCad e EasyEDA, Cisco Packet Tracer.
+- **Ferramentas:** Arduino IDE, Wokwi, AutoCad, Proteus, EasyEDA e Cisco Packet Tracer.
 - **Projetos:** desenvolvimento e testes de protótipos com ESP32, sensores, displays e automação.
   
 ## Contato
 
 - **E-mail:** [viniciuscavassani7@hotmail.com](mailto:viniciuscavassani7@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/vinicius-cavassani-4b12043a0](https://www.linkedin.com/in/vinicius-cavassani-4b12043a0/)
-- **GitHub:** [github.com/ViniciusCavassani](https://github.com/ViniciusCavassani)
