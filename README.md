@@ -16,6 +16,10 @@ Projeto físico escolar desenvolvido por mim. O repositório documenta o firmwar
 ### [Estudos de Python](https://github.com/ViniciusCavassani/estudos-python)
 Exercícios de aula e desafios iniciais, com anotações curtas e versões melhoradas para praticar validação de dados.
 
+### [Amplificador estéreo com TDA2004R](https://github.com/ViniciusCavassani/amplificador-estereo-tda2004)
+
+Projeto antigo feito enquanto eu aprendia eletrônica. Desenhei o circuito no Proteus e também montei e testei fisicamente. O repositório inclui o esquema editável, uma imagem e a documentação do projeto.
+
 ## Conhecimentos
 
 - **Eletrônica:** eletrônica analógica e digital, leitura de diagramas e datasheets, montagem em protoboard, soldagem e testes com multímetro.
